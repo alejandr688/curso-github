@@ -17,9 +17,9 @@ Proyecto de práctica para aprender Git y GitHub
 ## Version3
 
 La calculadora permite:
--sumar
--restar
--multiplicar
--dividir
+- sumar
+- restar
+- multiplicar
+- dividir
 
 La división incluye validación para evitar divisiones entre cero
