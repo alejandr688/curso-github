@@ -23,3 +23,5 @@ La calculadora permite:
 - dividir
 
 La división incluye validación para evitar divisiones entre cero
+
+Esta parte no está sincronizada en el repositorio local, solo existe en el remoto
